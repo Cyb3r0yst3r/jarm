@@ -1,13 +1,16 @@
 # Version 1.0 (November 2020)
 #
+# Modifications by:
+#   Ed Gibbs
+#
 # Created by:
-# John Althouse
-# Andrew Smart
-# RJ Nunaly
-# Mike Brady
+#    John Althouse
+#    Andrew Smart
+#    RJ Nunaly
+#   Mike Brady
 #
 # Converted to Python by:
-# Caleb Yu
+#    Caleb Yu
 #
 # Copyright (c) 2020, salesforce.com, inc.
 # All rights reserved.
